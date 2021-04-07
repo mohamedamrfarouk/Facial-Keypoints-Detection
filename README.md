@@ -1,2 +1,2 @@
 # Facial-Keypoints-Detection
-this is the first project of 
+this is the first project of Computer vision nanodegree
